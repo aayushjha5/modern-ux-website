@@ -1,3 +1,15 @@
+# Modern UI/UX website using Reactjs
+
+## Preview
+
+<img src="https://github.com/aayushjha5/modern-ux-website/blob/master/modernux.gif"/>
+
+
+## Features/Components
+- Using Reactjs v18.0
+- Using CSS BEM Model
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
